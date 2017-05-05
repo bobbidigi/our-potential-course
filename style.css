@@ -16,7 +16,7 @@ body{
 @media (max-device-width:768px){
     body{
         background:rgba(117, 72, 233,0.05);
-background-image: url("zenbg-1.png"), url("zenbg-2.png");
+background-image: url("images/zenbg-1.png"), url("images/zenbg-2.png");
 background-repeat: repeat-x, repeat;
     }   
     #bgvideo{
